@@ -11,8 +11,8 @@
 // the Free Software Foundation, either version 3 of the License, or
 // (at your option) any later version.
 //
-#ifndef FAT16_H
-#define FAT16_H
+#ifndef SDCARD_H
+#define SDCARD_H
 
 #define MMC_CLK PORTCbits.RC0
 #define MMC_DI PORTCbits.RC1
